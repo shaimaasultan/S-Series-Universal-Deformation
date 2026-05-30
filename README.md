@@ -15,6 +15,65 @@ S_N(T,S) = H_N + N * (1/2 − T/S)
 This family acts as a **universal bridge** between these divergent regimes.  
 Special values of T reproduce classical structures and reveal a new identity involving the **golden ratio** and a **Lambert‑type equation**.
 
+# Project History
+
+This repository contains the full development arc of the S‑Series, the Golden‑Ratio Bridge, and the Lambert‑Geometry framework.  
+Two documents capture the evolution of the ideas:
+
+---
+
+## 1. Original Notes — *Zeta sum.pdf*
+
+This file represents the earliest stage of the project.  
+It contains raw calculations, exploratory sketches, and the first attempts to understand:
+
+- how harmonic and quadratic divergences relate,
+- how to regularize divergent sums,
+- how the golden ratio unexpectedly appears in certain transformations,
+- and how discrete corrections might form a bridge between growth regimes.
+
+These notes were intentionally rough: a sandbox for intuition, experimentation, and pattern‑hunting.  
+They provided the conceptual seeds that later grew into the full theory.
+
+---
+
+## 2. Final Theory — *Zeta_SUM.pdf*
+
+This is the polished, structured, and complete version of the project.  
+It presents:
+
+- the **S(T,N) universal deformation**,  
+- the **golden‑ratio bridge series B_N**,  
+- the **Lambert‑type identity W(1/n) + 1/(n+1) = n**,  
+- the **projective geometry** behind the golden ratio,  
+- the **Lambert‑series generating function**,  
+- and the **unified geometric interpretation** (hyperbolic → projective → linear).
+
+Where the original notes were exploratory, *Zeta_SUM.pdf* is the final analytic and geometric framework — the complete theory.
+
+---
+
+## 3. Relationship Between the Two
+
+- *Zeta sum.pdf* is the **origin**: intuition, experiments, and raw ideas.  
+- *Zeta_SUM.pdf* is the **destination**: a coherent, rigorous, geometric‑analytic structure.
+
+Together, they document the full journey:
+
+**from intuition → to structure → to a universal deformation theory.**
+
+---
+
+## 4. Why Both Files Matter
+
+Keeping both documents in the repo preserves:
+
+- the **research trail**,  
+- the **evolution of ideas**,  
+- and the **transformation from notes to theory**.
+
+This makes the project transparent, reproducible, and historically complete.
+
 ---
 
 ## 1. The Universal Deformation S(T,N)
